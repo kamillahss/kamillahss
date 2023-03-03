@@ -1,8 +1,7 @@
 ### Oii, eu sou a Kamilla Sousa 👋
 
 
-- 🔭 Estou trabalhando com backend
-- 🌱 Estudando Análise e desenvolvimento de sistemas
+- 🌱 Estudante de Análise e desenvolvimento de sistemas
 
 ##
 <div align="center">
